@@ -37757,6 +37757,12 @@ a.u-link.u-text-hover-grey-90:hover {
   font-style: italic;
   margin: -36px auto 22px 0;
 }
+
+.u-header .u-btn-1 {
+  background-image: none;
+  font-style: italic;
+  padding: 0;
+}
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
